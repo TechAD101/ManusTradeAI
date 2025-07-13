@@ -1,0 +1,22 @@
+
+Flask
+gunicorn
+python-dotenv
+requests
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-JWT-Extended
+Flask-CORS
+SQLAlchemy
+psycopg2-binary # Or other database driver
+pandas
+numpy
+python-binance # If integrating with Binance
+python-faker # For mock data generation
+openai
+
+
+
+yfinance
+
+
